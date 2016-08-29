@@ -1,5 +1,4 @@
 import com.trueaccord.scalapb.{ScalaPbPlugin => PB}
-import Path.rebase
 
 name := "Proto3-ScalaTcpServer"
 
